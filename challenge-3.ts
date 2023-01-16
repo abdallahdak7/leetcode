@@ -16,3 +16,8 @@ function isIsomorphic(s: string, t: string): boolean {
     }
     return true;
 }
+
+/*
+Input: s = "egg", t = "add"
+Output: true
+*/
